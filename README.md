@@ -41,3 +41,13 @@ aws ec2 delete-snapshot --snapshot-id
 ```yml
 aws ec2 delete-volume --volume-id
 ```
+*Live :v:
+*Love :heart:
+*Learn :see_no_evil: :hear_no_evil: :speak_no_evil:
+
+:rocket::rocket::rocket:
+*ansible
+*aws
+*iam
+*pracima 
+*thecloudbootcamp
